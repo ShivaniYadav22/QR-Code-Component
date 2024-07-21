@@ -23,7 +23,7 @@ body{
 
 .child1{
     /* background-color: blue; */
-    background-image: url('oval.png');
+    background-image: url('./oval.png');
     display: flex;
     justify-content: center;
     align-items: center;
